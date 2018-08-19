@@ -42,9 +42,11 @@ db_pass = 'postgres'
 db_host = 'localhost'
 ```
 Virtual environment for project uses python3.6 interpreter:
+
 ```angular2html
 virtualenv -p python3.6 venv
 ```
+
 After install and activation "venv" go to the project directory, install requiremnts and run bash script for starting web-service:
 
 ```angular2html
