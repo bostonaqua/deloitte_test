@@ -41,7 +41,7 @@ db_user = 'postgres'
 db_pass = 'postgres'
 db_host = 'localhost'
 ```
-
+source ./venv/bin/activate
 Virtual environment is already in project and uses python3.6 interpreter.
 Go to the project directory and run bash script for starting web-service:
 
