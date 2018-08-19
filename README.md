@@ -30,7 +30,7 @@ Password: admin
 Clone project from GitHub:
 
 ```angular2html
-git clone https://github.com/btonaqua/deloitte_test.git
+git clone https://github.com/bostonaqua/deloitte_test.git
 ```
 
 Create database in PosgreSQL and change credential data in config.py. For example:
